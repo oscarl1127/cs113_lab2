@@ -11,7 +11,7 @@ public class Main
     public static void main(String[] args)
     {
         long number;
-
+        
         Scanner in = new Scanner(System.in);
 
         System.out.println("Enter number to be checked");
