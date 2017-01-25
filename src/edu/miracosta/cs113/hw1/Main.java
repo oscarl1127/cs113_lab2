@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author Oscar Lugo
+ *
  */
 
 public class Main
